@@ -1,4 +1,4 @@
-package com.greg.CurrencyConverter.domain;
+package com.greg.converter.domain;
 
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.data.repository.query.Param;

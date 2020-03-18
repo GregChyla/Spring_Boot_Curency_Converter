@@ -1,4 +1,4 @@
-package com.greg.CurrencyConverter.domain;
+package com.greg.converter.domain;
 
 import lombok.Getter;
 import lombok.Setter;

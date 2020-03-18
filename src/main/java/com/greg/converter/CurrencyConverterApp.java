@@ -1,7 +1,7 @@
-package com.greg.CurrencyConverter;
+package com.greg.converter;
 
-import com.greg.CurrencyConverter.domain.Currency;
-import com.greg.CurrencyConverter.domain.CurrencyRepository;
+import com.greg.converter.domain.Currency;
+import com.greg.converter.domain.CurrencyRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
